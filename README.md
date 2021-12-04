@@ -1,5 +1,7 @@
 # TypeScript-Learn Typescript로 블록체인 만들기
 
+- npm install typescript --save-dev
+
 - npx tsc을 실행시키면
   index.js, index.js.map이 생성된다.
 
