@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "add": "^2.0.6",
+    "crypto-js": "^4.1.1",
     "global": "^4.4.0",
     "typescript": "^4.5.2"
   },

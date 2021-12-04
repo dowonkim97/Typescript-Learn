@@ -1,4 +1,4 @@
-# TypeScript-Learn
+# TypeScript-Learn Typescript로 블록체인 만들기
 
 - npx tsc을 실행시키면
   index.js, index.js.map이 생성된다.
@@ -14,3 +14,8 @@
   void를 string 형식으로 바꾼다.
 
 - yarn add tsc-watch --dev
+
+- class를 private하면 보호할 수 있다.
+
+- 블록체인에서 모르는 부분이 있었지만,
+  타입스크립트를 배웠다.
